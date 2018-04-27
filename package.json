@@ -1,0 +1,14 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+    // these might be nice to have at some point
+//    "benchmark": "node benchmark.js",
+//    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
